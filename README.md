@@ -56,7 +56,7 @@ All fixtures can be applied with `swdc apply [Folder name in ~/Code] [Name]`
 
 ## Can i use it on Windows / Mac?
 
-I dont't develop on Windows or Mac. Try it out by own
+I don't develop on Windows or Mac. Try it out by own
 
 ## What are the passwords?
 
